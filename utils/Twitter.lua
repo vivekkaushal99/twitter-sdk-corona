@@ -4,7 +4,7 @@
 --
 -- Author: Corona Labs
 -- Modified by: Vellum Interactive, Inc
---
+-- Modified by: Vivek Kaushal, Click Labs Pvt. Ltd.
 -- Abstract: Demonstrates how to connect to Twitter using Oauth Authenication.
 --
 -- Sample code is MIT licensed, see http://www.coronalabs.com/links/code/license
